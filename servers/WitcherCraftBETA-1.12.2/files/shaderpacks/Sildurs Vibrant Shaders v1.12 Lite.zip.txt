@@ -1,0 +1,4 @@
+#Sat Nov 21 00:42:11 CET 2020
+Godrays=true
+Waving_Leaves=false
+Waving_Vines=false
