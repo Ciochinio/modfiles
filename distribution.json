@@ -2,22 +2,22 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "<473459769655689226>",
+    "smallImageText": "<WitcherCraft>",
+    "smallImageKey": "<popoga>"
   },
   "servers": [
     {
       "id": "WitcherCraftBETA-1.12.2",
       "name": "WitcherCraftBETA (Minecraft 1.12.2)",
-      "description": "WitcherCraftBETA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "description": "POPOGA",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "shortId": "<WitcherCraft>",
+        "largeImageText": "<https://www.youtube.com/watch?v=sAXZbfLzJUg&ab_channel=sethandthecrew>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
