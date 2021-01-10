@@ -1,12 +1,16 @@
 {
   "version": "1.0.0",
   "discord": {
-    "clientId": "85581240906022916",
+    "clientId": "385581240906022916",
     "smallImageText": "WesterosCraft",
     "smallImageKey": "seal-circle"
   },
+  "java": {
+      "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+  },
+  "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
-    {
+      {
       "id": "WesterosCraft-1.12.2",
       "name": "WesterosCraft 1.12.2 Production Server",
       "description": "New 1.12.2 production server.",
