@@ -9,7 +9,7 @@
 //client side
   "servers": [
     {
-      "id": "WitcherCraftBETA-1.12.2",
+      "id": "WitcherCraft TEST2",
       "name": "WitcherCraftBETA (Minecraft 1.12.2)",
       "description": "WitcherCraftBETA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
