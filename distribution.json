@@ -1,27 +1,24 @@
 {
   "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-      "clientId": "385581240906022916",
-      "smallImageText": "WesterosCraft",
-      "smallImageKey": "seal-circle"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
-  "java": {
-      "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-  },
-  "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
-      {
-          "id": "WesterosCraft-1.12.2",
-          "name": "WesterosCraft 1.12.2 Production Server",
-          "description": "New 1.12.2 production server.",
-          "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-          "version": "4.6.4",
-          "address": "mc.westeroscraft.com:25565",
-          "minecraftVersion": "1.12.2",
-          "discord": {
-              "shortId": "1.12.2 Production Server",
-              "largeImageText": "WesterosCraft 1.12.2 Production Server",
-              "largeImageKey": "server-prod"
+    {
+      "id": "WitcherCraftBETA-1.12.2",
+      "name": "WitcherCraftBETA (Minecraft 1.12.2)",
+      "description": "WitcherCraftBETA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
