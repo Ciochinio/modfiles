@@ -1,24 +1,27 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "473459769655689226",
-    "smallImageText": "WitcherCraft",
-    "smallImageKey": "seal-circle"
+      "clientId": "385581240906022916",
+      "smallImageText": "WesterosCraft",
+      "smallImageKey": "seal-circle"
   },
+  "java": {
+      "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+  },
+  "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
-    {
-      "id": "WitcherCraftBETA-1.12.2",
-      "name": "WitcherCraftBETA (Minecraft 1.12.2)",
-      "description": "POPOGA",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "https://ciochinio.github.io/modfiles/",
-      "minecraftVersion": "1.12.2",
-      "discord": {
-        "shortId": "<WitcherCraft>",
-        "largeImageText": "https://www.youtube.com/watch?v=sAXZbfLzJUg&ab_channel=sethandthecrew",
-        "largeImageKey": "server-prod"
+      {
+          "id": "WesterosCraft-1.12.2",
+          "name": "WesterosCraft 1.12.2 Production Server",
+          "description": "New 1.12.2 production server.",
+          "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+          "version": "4.6.4",
+          "address": "mc.westeroscraft.com:25565",
+          "minecraftVersion": "1.12.2",
+          "discord": {
+              "shortId": "1.12.2 Production Server",
+              "largeImageText": "WesterosCraft 1.12.2 Production Server",
+              "largeImageKey": "server-prod"
       },
       "mainServer": false,
       "autoconnect": false,
