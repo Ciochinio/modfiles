@@ -16,7 +16,7 @@
       "description": "New 1.12.2 production server.",
       "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
       "version": "4.6.4",
-      "address": "mc.westeroscraft.com:25565",
+      "address": "deithwen.stormboomer.de",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
@@ -24,7 +24,7 @@
         "largeImageKey": "server-prod"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
