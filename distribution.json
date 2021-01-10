@@ -1,24 +1,23 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "473459769655689226",
-    "smallImageText": "<TEST1",
-    "smallImageKey": "<TEST2"
+    "clientId": "85581240906022916",
+    "smallImageText": "WesterosCraft",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
-      "id": "WitcherCraftBETA-1.12.2",
-      "name": "POPOGA TEST (Minecraft 1.12.2)",
-      "description": "https://www.youtube.com/watch?v=sAXZbfLzJUg&ab_channel=sethandthecrew",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "play.pokezone.net",
+      "id": "WesterosCraft-1.12.2",
+      "name": "WesterosCraft 1.12.2 Production Server",
+      "description": "New 1.12.2 production server.",
+      "icon": "https://cdn.discordapp.com/attachments/736569130865393746/797916584575238184/Popoga_1.png",
+      "version": "4.6.4",
+      "address": "mc.westeroscraft.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<POPOGA1",
-        "largeImageText": "<POPOGA2",
-        "largeImageKey": "<POPOGA3"
+        "shortId": "1.12.2 Production Server",
+        "largeImageText": "WesterosCraft 1.12.2 Production Server",
+        "largeImageKey": "server-prod"
       },
       "mainServer": false,
       "autoconnect": false,
