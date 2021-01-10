@@ -6,6 +6,7 @@
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
+//client side
   "servers": [
     {
       "id": "WitcherCraftBETA-1.12.2",
