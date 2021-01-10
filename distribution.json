@@ -239,6 +239,16 @@
           ]
         },
         {
+          "id": "com.conquestreforged:conquest:3.0.2@jar",
+          "name": "Conquest Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60802913,
+            "url": "https://ciochinio.github.io/modfiles/servers/WitcherCraftBETA-1.12.2/forgemods/required/ConquestReforged-3.0.2-mc1.12.2.jar",
+            "MD5": "4ad1a90bcbecae097b984a4ee3695929"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -257,6 +267,17 @@
             "url": "https://ciochinio.github.io/modfiles/servers/WitcherCraftBETA-1.12.2/files/options.txt",
             "MD5": "e4bc11e5c6b6dce199d21f8c62d09f96",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Conquest+Reforged.zip",
+          "name": "Conquest+Reforged.zip",
+          "type": "File",
+          "artifact": {
+            "size": 85322951,
+            "url": "https://ciochinio.github.io/modfiles/servers/WitcherCraftBETA-1.12.2/files/resourcepacks/Conquest+Reforged.zip",
+            "MD5": "54db10d1ae7fd62093e1e754fe194076",
+            "path": "resourcepacks/Conquest+Reforged.zip"
           }
         }
       ]
