@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<473459769655689226>",
-    "smallImageText": "<WitcherCraft>",
-    "smallImageKey": "<popoga>"
+    "clientId": "473459769655689226",
+    "smallImageText": "WitcherCraft",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "POPOGA",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "https://ciochinio.github.io/modfiles/",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<WitcherCraft>",
-        "largeImageText": "<https://www.youtube.com/watch?v=sAXZbfLzJUg&ab_channel=sethandthecrew>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "https://www.youtube.com/watch?v=sAXZbfLzJUg&ab_channel=sethandthecrew",
+        "largeImageKey": "server-prod"
       },
       "mainServer": false,
       "autoconnect": false,
