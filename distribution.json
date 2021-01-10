@@ -6,11 +6,11 @@
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
-//client side
+//client
   "servers": [
     {
-      "id": "WitcherCraft TEST2",
-      "name": "WitcherCraftBETA (Minecraft 1.12.2)",
+      "id": "WitcherCraftBETA-1.12.2",
+      "name": "WitcherCraft TEST2",
       "description": "WitcherCraftBETA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
