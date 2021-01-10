@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "473459769655689226",
+    "smallImageText": "<TEST1",
+    "smallImageKey": "<TEST2"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "play.pokezone.net",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "<POPOGA1",
+        "largeImageText": "<POPOGA2",
+        "largeImageKey": "<POPOGA3"
       },
       "mainServer": false,
       "autoconnect": false,
