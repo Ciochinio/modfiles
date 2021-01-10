@@ -1,4 +1,0 @@
-#Tue Sep 22 21:22:26 CEST 2020
-Lens_Flares=true
-Waving_Leaves=false
-Waving_Vines=false
