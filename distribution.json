@@ -3,7 +3,7 @@
   "discord": {
     "clientId": "798263121655103488",
     "smallImageText": "WitcherCraft",
-    "smallImageKey": "seal-circle"
+    "smallImageKey": "witchercraft-logo"
   },
   "java": {
       "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
