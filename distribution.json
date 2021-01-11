@@ -11,8 +11,8 @@
   "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
       {
-      "id": "WesterosCraft-1.12.2",
-      "name": "WesterosCraft 1.12.2 Production Server",
+      "id": "witchercraft",
+      "name": "WitcherCraft",
       "description": "New 1.12.2 production server.",
       "icon": "https://cdn.discordapp.com/attachments/797934597538840616/798247445779185664/pnghut_the-witcher-3-wild-hunt-geralt-of-rivia-last-wish-sword-destiny.png",
       "version": "4.6.4",
