@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "discord": {
-    "clientId": "385581240906022916",
+    "clientId": "798263121655103488",
     "smallImageText": "WitcherCraft",
     "smallImageKey": "seal-circle"
   },
@@ -21,7 +21,7 @@
       "discord": {
         "shortId": "1.12.2 Production Server",
         "largeImageText": "WitcherCraft DISCORD",
-        "largeImageKey": "server-prod"
+        "largeImageKey": "witchercraft-logo"
       },
       "mainServer": false,
       "autoconnect": true,
