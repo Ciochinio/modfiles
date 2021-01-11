@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "385581240906022916",
-    "smallImageText": "WesterosCraft",
+    "smallImageText": "WitcherCraft",
     "smallImageKey": "seal-circle"
   },
   "java": {
@@ -14,7 +14,7 @@
       "id": "WesterosCraft-1.12.2",
       "name": "WesterosCraft 1.12.2 Production Server",
       "description": "New 1.12.2 production server.",
-      "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+      "icon": "https://cdn.discordapp.com/attachments/797934597538840616/798247445779185664/pnghut_the-witcher-3-wild-hunt-geralt-of-rivia-last-wish-sword-destiny.png",
       "version": "4.6.4",
       "address": "deithwen.stormboomer.de",
       "minecraftVersion": "1.12.2",
