@@ -1,8 +1,7 @@
 {
   "version": "1.0.0",
   "discord": {
-    "clientId": "798263121655103488",
-    "smallImageKey": "aard"
+    "clientId": "798263121655103488"
   },
   "java": {
       "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
