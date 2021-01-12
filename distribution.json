@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "798263121655103488",
-    "smallImageText": "WitcherCraft",
-    "smallImageKey": "witchercraft-logo"
+    "smallImageText": "-",
+    "smallImageKey": "-"
   },
   "java": {
       "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -13,14 +13,14 @@
       {
       "id": "witchercraft",
       "name": "WitcherCraft",
-      "description": "OOOOOOOOOPIS",
-      "icon": "https://cdn.discordapp.com/attachments/797934597538840616/798247445779185664/pnghut_the-witcher-3-wild-hunt-geralt-of-rivia-last-wish-sword-destiny.png",
-      "version": "4.6.4",
-      "address": "deithwen.stormboomer.de",
+      "description": "Niezapomniana przygoda w świecie Minecrafta",
+      "icon": "https://ibb.co/PC1KWb6",
+      "version": "1.0.1",
+      "address": "IP SERWERA MINECRAFT",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
-        "largeImageText": "WitcherCraft DISCORD",
+        "largeImageText": "WitcherCraft już dostępny!",
         "largeImageKey": "witchercraft-logo"
       },
       "mainServer": false,
