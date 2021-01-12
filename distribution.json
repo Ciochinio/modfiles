@@ -2,8 +2,7 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "798263121655103488",
-    "smallImageText": "-",
-    "smallImageKey": "-"
+    "smallImageKey": "aard"
   },
   "java": {
       "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -24,7 +23,7 @@
         "largeImageKey": "witchercraft-logo"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
@@ -256,6 +255,17 @@
             "size": 1479535,
             "url": "https://ciochinio.github.io/modfiles/servers/WitcherCraftBETA-1.12.2/forgemods/required/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
             "MD5": "bdf6d8d20591c014fed66633f4ef3b23"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4194,
+            "url": "https://ciochinio.github.io/modfiles/servers/WitcherCraftBETA-1.12.2/files/options.txt",
+            "MD5": "e4bc11e5c6b6dce199d21f8c62d09f96",
+            "path": "options.txt"
           }
         },
         {
