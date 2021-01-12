@@ -6,7 +6,7 @@
   "java": {
       "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
   },
-  "rss": "https://westeroscraft.com/articles/index.rss",
+  "rss": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
   "servers": [
       {
       "id": "witchercraft",
